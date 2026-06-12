@@ -90,3 +90,8 @@
   list-style-type: none;
   padding: 5px;
 }
+body{
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
