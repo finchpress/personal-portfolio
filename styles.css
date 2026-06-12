@@ -7,7 +7,6 @@
     font-family: var(--tech-font-family);
     color: var(--tech-color);
     background-color: var(--tech-background-color);
-}
   .crt::before {
   content: " ";
   display: block;
@@ -21,7 +20,7 @@
   background-size: 100% 2px, 3px 100%;
   pointer-events: none;
 }
-
+}
 @keyframes flicker {
   0% {
   opacity: 0.27861;
@@ -74,7 +73,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 998;
+  z-index: 997;
   justify-content: space-between;
 }
 .navbar{
